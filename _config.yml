@@ -1,0 +1,14 @@
+layout_spectrum: 0.04123101942241192
+typography_spectrum: 0.45556780113838613
+color:
+  brandStrength: 0.8736511475872248
+  lightness: 0.8900132435373962
+  saturation: 0.9293448920361698
+  rhythmicContrast: 0.182812588987872
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: HellsYesPls
