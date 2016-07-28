@@ -6,9 +6,10 @@ color:
   saturation: 0.9293448920361698
   rhythmicContrast: 0.182812588987872
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
 name: HellsYesPls
+title: Now Thats Interesting
