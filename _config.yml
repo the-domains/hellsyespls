@@ -1,16 +1,16 @@
-typography_spectrum: 0.45556780113838613
+layout_spectrum: 0.024049678584560752
+typography_spectrum: 0.6067971631418914
 color:
-  brandStrength: 0.8736511475872248
-  lightness: 0.8900132435373962
-  saturation: 0.9293448920361698
-  rhythmicContrast: 0.182812588987872
+  brandStrength: 0.24311226443387568
+  lightness: 0.17837459943257272
+  saturation: 0.8974203881807625
+  rhythmicContrast: 0.44442190625704825
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-layout_spectrum: 0.04123101942241192
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
 name: HellsYesPls
 title: HellsYesPls
 description: ...ftw
