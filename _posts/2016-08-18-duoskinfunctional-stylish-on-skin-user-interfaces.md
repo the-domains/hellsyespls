@@ -45,11 +45,11 @@ app_links:
     id: com.vimeo.android.videoapp
 isBasedOnUrl: 'https://vimeo.com/178334883'
 title: 'DuoSkin:Functional, stylish on-skin user interfaces'
-datePublished: '2016-08-18T00:34:43.971Z'
-dateModified: '2016-08-18T00:30:17.326Z'
+datePublished: '2016-08-23T00:10:02.125Z'
+dateModified: '2016-08-23T00:10:01.177Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-18-duoskinfunctional-stylish-on-skin-user-interfaces.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
