@@ -11,6 +11,8 @@ color:
     - '#3498DB'
     - '#2980B9'
 layout_spectrum: 0.44564234442077577
+analytics:
+  google: UA-83140939-1
 author:
   name: PT
   email: thompsonpjp@gmail.com
