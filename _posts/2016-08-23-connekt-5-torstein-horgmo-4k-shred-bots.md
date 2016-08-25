@@ -64,16 +64,14 @@ app_links:
     package: '544007664'
     namespace: google
     type: ios
-isBasedOnUrl: 'https://youtu.be/bOPAumvMLJA'
 title: CONNEKT 5- TORSTEIN HORGMO- 4K- Shred Bots
-datePublished: '2016-08-23T00:04:42.577Z'
-dateModified: '2016-08-23T00:02:30.553Z'
+datePublished: '2016-08-25T05:01:09.097Z'
+dateModified: '2016-08-25T05:01:08.291Z'
 via: {}
-starred: false
 sourcePath: _posts/2016-08-23-connekt-5-torstein-horgmo-4k-shred-bots.md
-inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+starred: false
+url: connekt-5-torstein-horgmo-4k-shred-bots/index.html
 _type: VideoObject
 _context: 'http://schema.org'
 
