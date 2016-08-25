@@ -15,5 +15,9 @@ author:
   name: PT
   email: thompsonpjp@gmail.com
 name: HellsYesPls
+navigation:
+  - name: SNOW
+    id: fde9d953-ecdf-4c64-8331-4f96a6fd8b2f
+    type: content
 title: HellsYesPls
 description: ...ftw
