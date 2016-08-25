@@ -1,8 +1,8 @@
 ---
 id: fde9d953-ecdf-4c64-8331-4f96a6fd8b2f
-dateModified: '2016-08-25T06:27:04.758Z'
+dateModified: '2016-08-25T06:27:09.543Z'
 title: CONNEKT 5- TORSTEIN HORGMO- 4K- Shred Bots
-datePublished: '2016-08-25T06:27:06.028Z'
+datePublished: '2016-08-25T06:27:09.977Z'
 author:
   - name: SHREDBOTS OFFICIAL
     url: 'https://www.youtube.com/user/ShredbotsOFFICIAL'
@@ -20,8 +20,8 @@ publisher:
   favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
   domain: youtu.be
 via: {}
-starred: true
 sourcePath: _posts/2016-08-23-connekt-5-torstein-horgmo-4k-shred-bots.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
