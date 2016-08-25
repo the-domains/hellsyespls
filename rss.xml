@@ -4,15 +4,8 @@
         <description><![CDATA[HellsYesPls]]></description>
         <link>http://hellsyespls.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 05:33:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 06:00:22 GMT</lastBuildDate>
         <atom:link href="http://hellsyespls.com/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[DuoSkin:Functional, stylish on-skin user interfaces]]></title>
-            <description><![CDATA[<article><h1>DuoSkin:Functional, stylish on-skin user interfaces</h1><p>DuoSkin is a fabrication process that enables anyone to create customized functional devices that can be attached directly on their skin. Using gold metal leaf, a material that is cheap, skin-friendly, and robust for everyday wear, we demonstrate three types of on-skin interfaces: sensing touch input, displaying output, and wireless communication.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6ec1a87b42b401880bcbd7a4dce7668/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F585933967_1920x1080.jpg"></article>]]></description>
-            <link>https://vimeo.com/178334883</link>
-            <guid isPermaLink="false">885db382-7448-41da-873e-39a20ed853c4</guid>
-            <pubDate>Tue, 23 Aug 2016 00:10:02 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[The Fourth Phase | TEASER (4k) | From the Makers of The Art of FLIGHT]]></title>
             <description><![CDATA[<article><h1>The Fourth Phase | TEASER (4k) | From the Makers of The Art of FLIGHT</h1><p>" CLICK for more info on the film: http://win.gs/TheFourthPhase The innovators behind the "The Art of FLIGHT," Red Bull Media House in association with Brain Farm Cinema, provide a peek into iconic snowboarder Travis Rice's highly-anticipated return in "The Fourth Phase."</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/d50be7f1682e544db08af43fa8143ca5/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fk9qWa0Yn6bo%2Fmaxresdefault.jpg"></article>]]></description>
@@ -68,6 +61,13 @@
             <link>http://www.creativeapplications.net/news/bits-and-pieces-an-inverted-landscape-of-always-moving-hoberman-spheres/</link>
             <guid isPermaLink="false">f5c739ca-b78e-4477-9d4a-b5d450c952ad</guid>
             <pubDate>Thu, 28 Jul 2016 02:30:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DuoSkin:Functional, stylish on-skin user interfaces]]></title>
+            <description><![CDATA[<article><h1>DuoSkin:Functional, stylish on-skin user interfaces</h1><p>DuoSkin is a fabrication process that enables anyone to create customized functional devices that can be attached directly on their skin. Using gold metal leaf, a material that is cheap, skin-friendly, and robust for everyday wear, we demonstrate three types of on-skin interfaces: sensing touch input, displaying output, and wireless communication.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/e6ec1a87b42b401880bcbd7a4dce7668/noop.jpg?input=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F585933967_1920x1080.jpg"></article>]]></description>
+            <link>https://vimeo.com/178334883</link>
+            <guid isPermaLink="false">885db382-7448-41da-873e-39a20ed853c4</guid>
+            <pubDate>Thu, 25 Aug 2016 06:00:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
