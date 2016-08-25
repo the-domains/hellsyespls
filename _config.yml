@@ -1,4 +1,3 @@
-layout_spectrum: 0.44564234442077577
 typography_spectrum: 0.767414819682017
 color:
   brandStrength: 0.5299096794333309
@@ -11,6 +10,10 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+layout_spectrum: 0.44564234442077577
+author:
+  name: PT
+  email: thompsonpjp@gmail.com
 name: HellsYesPls
 title: HellsYesPls
 description: ...ftw
